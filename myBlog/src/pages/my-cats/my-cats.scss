@@ -1,0 +1,52 @@
+page-my-cats {
+
+    // ion-card{
+    //     width:70%;
+    //     // Height:55%;
+    //     }
+
+        
+
+              ion-card{
+                border: 5px solid black;
+                padding: 50px;
+                 margin: 50px;
+
+                .img{
+                    align-self: center;
+                    Width:100%;
+                    Height:55%;
+                    }
+        
+                    .catcontentii{
+                        font-family: 'Cute Font', cursive;
+                        font-size: 48px;
+                    }
+        
+                    .catcontentsss{
+                        font-family: 'Cute Font', cursive;
+                        font-size: 32px;
+                    }
+        
+                    .col-50 {
+                        display: -webkit-box;
+                        display: -webkit-flex;
+                        display: -ms-flexbox;
+                        display: flex;
+                      }
+                      .card {
+                        width:100%;
+                        display: -webkit-box;
+                        display: -webkit-flex;
+                        display: -ms-flexbox;
+                        display: flex;
+                        -webkit-box-orient: vertical;
+                        -webkit-box-direction: normal;
+                        -webkit-flex-direction: column;
+                            -ms-flex-direction: column;
+                                flex-direction: column;
+                      }
+            }
+}
+
+
